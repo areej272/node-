@@ -1,5 +1,26 @@
 {
   "dependencies": {
-    "express": "^5.1.0"
-  }
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "routing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/areej272/node-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/areej272/node-/issues"
+  },
+  "homepage": "https://github.com/areej272/node-#readme",
+  "description": ""
 }
